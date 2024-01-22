@@ -1,0 +1,30 @@
+.myclass{
+    background-color: aqua;
+    font-size: 30px;
+    width: 150px;
+    height: 40px;
+    border-radius: 30px;
+    color: maroon;
+    margin-top: 100px;
+}
+#info{
+    font-size: 50px;
+    background-color: #5cd65c;
+    border: 5px double yellow;
+    border-radius: 40px;
+    color: bisque;
+    width: 600px;
+    height: 70px;
+    font-family:serif;
+
+}
+i{
+    font-size: 60px;
+    text-decoration: underline;
+    text-shadow: 3px 2px red;
+    
+    
+}
+body{
+    background-color: burlywood;
+}
